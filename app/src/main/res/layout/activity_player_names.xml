@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".PlayerNamesActivity">
+
+    <TextView
+        android:id="@+id/dummyView0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/dummyView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/dummyView0"
+        android:layout_marginBottom="40dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/dummyView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/dummyView0"
+        android:layout_marginTop="40dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/p1name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/dummyView1"
+        android:layout_toLeftOf="@+id/dummyView1"
+        android:layout_marginRight="21dp"
+        android:text="Player 1 Name:" />
+
+    <TextView
+        android:id="@+id/p2name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/dummyView2"
+        android:layout_toLeftOf="@+id/dummyView2"
+        android:layout_marginRight="21dp"
+        android:text="Player 2 Name:" />
+
+    <EditText
+        android:id="@+id/editp1name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/dummyView1"
+        android:layout_toRightOf="@+id/dummyView1"
+        android:layout_marginRight="21dp"
+        android:inputType="text"
+        android:ems="16" />
+
+    <EditText
+        android:id="@+id/editp2name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/dummyView2"
+        android:layout_toRightOf="@+id/dummyView2"
+        android:layout_marginRight="21dp"
+        android:inputType="text"
+        android:ems="16" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/dummyView0"
+        android:layout_marginTop="120dp"
+        android:onClick="onSubmitClick"
+        android:text="@string/submit" />
+
+</RelativeLayout>

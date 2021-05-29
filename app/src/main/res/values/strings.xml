@@ -1,3 +1,118 @@
 <resources>
     <string name="app_name">TheEarthGame</string>
+    <string name="start">Start</string>
+    <string name="welcome">Welcome to The Earth Game!</string>
+    <string name="guess">Guess</string>
+    <string name="nexthint">Next Hint</string>
+    <string name="win">YOU WIN!</string>
+    <string name="bothlose">YOU BOTH LOSE.</string>
+    <string name="submit">Submit</string>
+    <string name="pass">Pass</string>
+    <string name="oneplayer">1 Player</string>
+    <string name="twoplayer">2 Players</string>
+    <string name="howtoplay">How to Play</string>
+    <string name="instructions">I am a country. I will give you an interesting fact about me, and then
+    you may guess who I am. You will receive 10 facts in total. If you guess correctly, you win.
+    Otherwise, I win.</string>
+
+    <string-array name="countries">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+    </string-array>
+
+    <string-array name="country_facts">
+        <item>My people enjoy playing buzkashi, where riders on horses battle for a goat carcass that serves as a ball.</item>
+        <item>I share a border with Iran.</item>
+        <item>My name means “Land of the horsemen”.</item>
+        <item>Most of my people follow Islam.</item>
+        <item>Most of my people speak Pashto or Dari.</item>
+        <item>My currency is called Afghani.</item>
+        <item>My population is about 37 million.</item>
+        <item>My capital is Kabul.</item>
+        <item>My people enjoy eating kabuli palaw, which consists of steamed rice mixed with raisins, carrots, and beef or lamb.</item>
+        <item>I am home to the world’s oldest known oil paintings.</item>
+
+        <item>My name means “Land of the people of the mountains”</item>
+        <item>Most of my people follow Islam. Some follow Christianity.</item>
+        <item>My currency is called Lek.</item>
+        <item>My people’s favourite sport is soccer.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Greece.</item>
+        <item>My population is about 2.8 million.</item>
+        <item>My capital is Tirana.</item>
+        <item>My people enjoy eating tave kosi, a dish of lamb and rice baked with a mixture of yogurt and eggs added to a roux (wheat flour and butter).</item>
+        <item>My capital city is one of the only in Europe to not have McDonalds.</item>
+
+        <item>My name means “The islands”.</item>
+        <item>Most of my people follow Islam.</item>
+        <item>My official language is Arabic.</item>
+        <item>My people’s most popular sport is soccer.</item>
+        <item>My currency is known is Dinar.</item>
+        <item>I share a border with Libya.</item>
+        <item>My population is about 42 million.</item>
+        <item>My capital is Algiers.</item>
+        <item>My people enjoy eating couscous, a dish of small steamed balls of crushed durum wheat semolina.</item>
+        <item>I am the largest country in Africa.</item>
+
+        <item>My name means “Land of silver”.</item>
+        <item>Most of my people follow Christianity.</item>
+        <item>My people speak Spanish.</item>
+        <item>My people play soccer.</item>
+        <item>My currency is called the Peso.</item>
+        <item>I share a border with Uruguay.</item>
+        <item>My population is about 44 million.</item>
+        <item>My capital is Buenos Aires.</item>
+        <item>My people enjoy asado, a social eating event consisting of beef, pork, chicken, chorizo, and morcilla which are cooked on a grill, called a parrilla, or an open fire.</item>
+        <item>My people created the world’s first full length cartoon.</item>
+
+        <item>I am named after Aram, a character in the Jewish bible.</item>
+        <item>Most of my people follow Christianity.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>My people enjoy soccer, basketball and chess.</item>
+        <item>My currency is called the Dram.</item>
+        <item>I share a border with Turkey.</item>
+        <item>My population is about 3 million.</item>
+        <item>My capital is Yerevan.</item>
+        <item>My people enjoying eating harisa, a dish of boiled, cracked, or coarsely-ground wheat, mixed with meat and seasoned.</item>
+        <item>I was the world’s first country to establish Christianity as my official religion.</item>
+
+        <item>My name means “The Southern land”.</item>
+        <item>Most of my people follow Christianity.</item>
+        <item>Most of my people speak English.</item>
+        <item>My people play many sports, including cricket and rugby.</item>
+        <item>My currency is called the Dollar.</item>
+        <item>I don’t share a border with anybody else.</item>
+        <item>My population is about 25 million.</item>
+        <item>My capital is Canberra.</item>
+        <item>My people enjoy eating meat pies and vegemite on toast.</item>
+        <item>I am home to the longest fence in the world.</item>
+
+        <item>My name means “Eastern land”.</item>
+        <item>My population is about 9 million.</item>
+        <item>Most of my people follow Christianity.</item>
+        <item>My people speak German.</item>
+        <item>My people enjoy soccer, skiing and ice hockey.</item>
+        <item>My currency is the Euro.</item>
+        <item>I share a border with Switzerland.</item>
+        <item>My capital is Vienna</item>
+        <item>My people enjoy eating wiener schnitzel, type of schnitzel made of a thin, breaded, pan-fried veal cutlet.</item>
+        <item>I am home to the largest ice cave in the world.</item>
+
+        <item>My name means “Land of the holy fire”.</item>
+        <item>My people follow Islam.</item>
+        <item>My people speak a Turkic language.</item>
+        <item>My people enjoy playing soccer and chess.</item>
+        <item>My currency is the Manat.</item>
+        <item>I share a border with Armenia.</item>
+        <item>My population is about 10 million.</item>
+        <item>My capital is Baku.</item>
+        <item>My people enjoy eating dolma, a stuffed dish using tomato, pepper, onion, zucchini, eggplant and/or pointed gourd.</item>
+        <item>I am the birthplace of crude oil wells. My people even use oil for bathing.</item>
+    </string-array>
 </resources>

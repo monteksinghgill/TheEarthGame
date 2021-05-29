@@ -9,6 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TheEarthGame">
+        <activity android:name=".PlayerNamesActivity"></activity>
+        <activity android:name=".TwoPlayerLoseActivity" />
+        <activity android:name=".TwoPlayerWinActivity" />
+        <activity android:name=".TwoPlayerQuestionsActivity" />
+        <activity android:name=".OnePlayerLoseActivity" />
+        <activity android:name=".OnePlayerWinActivity" />
+        <activity android:name=".OnePlayerQuestionsActivity" />
+        <activity android:name=".NumPlayersActivity" />
+        <activity android:name=".HowToPlayActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingBottom="16dp"
+android:paddingLeft="16dp"
+android:paddingRight="16dp"
+android:paddingTop="16dp"
+tools:context=".NumPlayersActivity">
+
+<TextView
+    android:id="@+id/dummyView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    />
+
+<Button
+    android:id="@+id/oneplayer"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_above="@+id/dummyView"
+    android:layout_marginBottom="21dp"
+    android:onClick="onOnePlayerClick"
+    android:text="@string/oneplayer" />
+
+<Button
+    android:id="@+id/twoplayer"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@+id/dummyView"
+    android:layout_marginTop="21dp"
+    android:onClick="onTwoPlayerClick"
+    android:text="@string/twoplayer" />
+
+</RelativeLayout>

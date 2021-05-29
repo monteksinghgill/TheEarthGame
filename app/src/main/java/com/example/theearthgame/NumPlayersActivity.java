@@ -5,21 +5,22 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity extends Activity {
+public class NumPlayersActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_num_players);
     }
 
-    public void onStartClick(View view) {
-        Intent intent = new Intent(this, NumPlayersActivity.class);
+    public void onOnePlayerClick(View view) {
+        Intent intent = new Intent(this, OnePlayerQuestionsActivity.class);
         startActivity(intent);
     }
 
-    public void onHowToPlayClick(View view) {
-        Intent intent = new Intent(this, HowToPlayActivity.class);
+    public void onTwoPlayerClick(View view) {
+        Intent intent = new Intent(this, PlayerNamesActivity.class);
         startActivity(intent);
     }
+
 }
