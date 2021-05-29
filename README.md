@@ -12,7 +12,7 @@ Once started, the game randomly chooses, but does not reveal, a country. Current
 
 ## Data
 
-The country facts database was assembled manually from scratch by the authors and may be found as a string array in the file TheEarthGame/app/src/main/res/values/strings.xml. It consists of 10 facts about the many countries on in our world.
+The country facts database was assembled manually from scratch by the authors and may be found as a string array in the file TheEarthGame/app/src/main/res/values/strings.xml. It consists of 10 facts about the many countries in our world.
 
 ## Using the app / Playing the game
 
