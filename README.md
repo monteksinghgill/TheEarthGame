@@ -20,7 +20,7 @@ To use the app and play the game, one can fork the code into Android Studio and 
 
 ## Further Development
 
-In it's current state, the game is functional; however, the project is still a work in progress and is being developed further. In the very near future, among other things, the list of possible countries will be significantly expanded, the visual interface will be further developed, and the topics for the quiz questions will be diversified. There are also some interactions with the underlying Android operating system that need to be smoothed out. Finally, we also plan to introduce a player ranking database.
+In it's current state, the game is functional; however, the project is still a work in progress and is actively being developed further. In the very near future, among other things, the list of possible countries will be significantly expanded, the visual interface will be further developed, and the topics for the quiz questions will be diversified. There are also some interactions with the underlying Android operating system that need to be smoothed out. Finally, we also plan to introduce a player ranking database.
 
 ## Credits and Contact
 
