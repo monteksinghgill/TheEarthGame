@@ -3,7 +3,7 @@
 
 ## Description of the app
 
-Once started, the game randomly chooses, but does not reveal, a country. Currently, the game has two modes, a one player mode and a two player mode. The player or players are succesively provided hints about the randomly chosen country and must attempt to guess it. They may make a guess, or they may pass their turn. The first player to guess correctly, wins. If no player is able to guess correctly before the hints run out, the game wins. A major goal of the game is to be educational, in an engaging manner. The hints, which are mostly of a geographical and/or historical nature, are designed to be (hopefully) very interesting, so that the players may learn many interesting things as they play, about the many countries on our planet Earth.
+Once started, the game randomly chooses, but does not reveal, a country. Currently, the game has two modes, a one player mode and a two player mode. The player or players are succesively provided hints about the randomly chosen country and must attempt to guess it. They may make a guess, or they may pass their turn. The first player to guess correctly, wins. If no player is able to guess correctly before the hints run out, the game wins. A major goal of the game is to be educational, in an engaging manner. The hints, which are mostly of a geographical and/or historical nature, are designed to be (hopefully) very interesting, so that, as they play, the players may learn many interesting things about the many countries on our planet Earth.
 
 ## Requirements
 
