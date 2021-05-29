@@ -12,7 +12,7 @@
     <string name="twoplayer">2 Players</string>
     <string name="howtoplay">How to Play</string>
     <string name="instructions">I am a country. I will give you an interesting fact about me, and then
-    you may guess who I am. You will receive 10 facts in total. If you guess correctly, you win.
+    you may guess who I am. You will receive 10 facts in total. If you guess correctly before the hints run out, you win.
     Otherwise, I win.</string>
 
     <string-array name="countries">
