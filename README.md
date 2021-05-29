@@ -24,7 +24,7 @@ In it's current state, the game is functional; however, the project is still a w
 
 ## Credits and Contact
 
-Developers: Gurtek Singh Gill, Montek Singh Gill
-Designer: Tavan Sohi
+* Developers: Gurtek Singh Gill, Montek Singh Gill
+* Designer: Tavan Sohi
 
 To ask questions or report issues, please send an email to rickygill01@gmail.com.
