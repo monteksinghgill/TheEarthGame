@@ -14,6 +14,7 @@
     <string name="instructions">I am a country. I will give you an interesting fact about me, and then
     you may guess who I am. You will receive 10 facts in total. If you guess correctly before the hints run out, you win.
     Otherwise, I win.</string>
+    <string name="playagain">Play again?</string>
 
     <string-array name="countries">
         <item>Afghanistan</item>
