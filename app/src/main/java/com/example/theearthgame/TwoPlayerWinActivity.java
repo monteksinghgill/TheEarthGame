@@ -3,6 +3,7 @@ package com.example.theearthgame;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 public class TwoPlayerWinActivity extends Activity {
@@ -15,6 +16,11 @@ public class TwoPlayerWinActivity extends Activity {
         String name = intent.getStringExtra("name");
         TextView winMessage = (TextView) findViewById(R.id.win);
         winMessage.setText(String.format("%s WINS!", name));
+    }
+
+    public void onClickPlayAgain(View view) {
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 
 }

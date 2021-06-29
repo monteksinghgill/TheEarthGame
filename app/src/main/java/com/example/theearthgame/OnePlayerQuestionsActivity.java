@@ -40,7 +40,7 @@ public class OnePlayerQuestionsActivity extends Activity {
         }
         if (country.length() == 0) {
             Random rand = new Random();
-            int country_num = rand.nextInt(8);
+            int country_num = rand.nextInt(135);
             country = countries[country_num];
             hints_start_index = 10*country_num;
             hint_num = 0;

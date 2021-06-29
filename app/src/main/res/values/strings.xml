@@ -14,6 +14,7 @@
     <string name="instructions">I am a country. I will give you an interesting fact about me, and then
     you may guess who I am. You will receive 10 facts in total. If you guess correctly before the hints run out, you win.
     Otherwise, I win.</string>
+    <string name="playagain">Play again?</string>
 
     <string-array name="countries">
         <item>Afghanistan</item>
@@ -24,24 +25,151 @@
         <item>Australia</item>
         <item>Austria</item>
         <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Brazil</item>
+        <item>Bulgaria</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Costa Rica</item>
+        <item>Ivory Coast</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Czech Republic</item>
+        <item>Denmark</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Greece</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>North Korea</item>
+        <item>South Korea</item>
+        <item>Kosovo</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Madagascar</item>
+        <item>Malaysia</item>
+        <item>Mexico</item>
+        <item>Mongolia</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar (Burma)</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Nigeria</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>South Sudan</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States of America</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Vatican City</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
     </string-array>
 
     <string-array name="country_facts">
         <item>My people enjoy playing buzkashi, where riders on horses battle for a goat carcass that serves as a ball.</item>
         <item>I share a border with Iran.</item>
-        <item>My name means “Land of the horsemen”.</item>
+        <item>My name means \"Land of the horsemen\".</item>
         <item>Most of my people follow Islam.</item>
         <item>Most of my people speak Pashto or Dari.</item>
         <item>My currency is called Afghani.</item>
         <item>My population is about 37 million.</item>
         <item>My capital is Kabul.</item>
         <item>My people enjoy eating kabuli palaw, which consists of steamed rice mixed with raisins, carrots, and beef or lamb.</item>
-        <item>I am home to the world’s oldest known oil paintings.</item>
+        <item>I am home to the world\'s oldest known oil paintings.</item>
 
-        <item>My name means “Land of the people of the mountains”</item>
+        <item>My name means \"Land of the people of the mountains\"</item>
         <item>Most of my people follow Islam. Some follow Christianity.</item>
         <item>My currency is called Lek.</item>
-        <item>My people’s favourite sport is soccer.</item>
+        <item>My people\'s favourite sport is soccer.</item>
         <item>My people speak an Indo-European language.</item>
         <item>I share a border with Greece.</item>
         <item>My population is about 2.8 million.</item>
@@ -49,10 +177,10 @@
         <item>My people enjoy eating tave kosi, a dish of lamb and rice baked with a mixture of yogurt and eggs added to a roux (wheat flour and butter).</item>
         <item>My capital city is one of the only in Europe to not have McDonalds.</item>
 
-        <item>My name means “The islands”.</item>
+        <item>My name means \"The islands\".</item>
         <item>Most of my people follow Islam.</item>
         <item>My official language is Arabic.</item>
-        <item>My people’s most popular sport is soccer.</item>
+        <item>My people\'s most popular sport is soccer.</item>
         <item>My currency is known is Dinar.</item>
         <item>I share a border with Libya.</item>
         <item>My population is about 42 million.</item>
@@ -60,7 +188,7 @@
         <item>My people enjoy eating couscous, a dish of small steamed balls of crushed durum wheat semolina.</item>
         <item>I am the largest country in Africa.</item>
 
-        <item>My name means “Land of silver”.</item>
+        <item>My name means \"Land of silver\".</item>
         <item>Most of my people follow Christianity.</item>
         <item>My people speak Spanish.</item>
         <item>My people play soccer.</item>
@@ -69,7 +197,7 @@
         <item>My population is about 44 million.</item>
         <item>My capital is Buenos Aires.</item>
         <item>My people enjoy asado, a social eating event consisting of beef, pork, chicken, chorizo, and morcilla which are cooked on a grill, called a parrilla, or an open fire.</item>
-        <item>My people created the world’s first full length cartoon.</item>
+        <item>My people created the world\'s first full length cartoon.</item>
 
         <item>I am named after Aram, a character in the Jewish bible.</item>
         <item>Most of my people follow Christianity.</item>
@@ -80,20 +208,20 @@
         <item>My population is about 3 million.</item>
         <item>My capital is Yerevan.</item>
         <item>My people enjoying eating harisa, a dish of boiled, cracked, or coarsely-ground wheat, mixed with meat and seasoned.</item>
-        <item>I was the world’s first country to establish Christianity as my official religion.</item>
+        <item>I was the world\'s first country to establish Christianity as my official religion.</item>
 
-        <item>My name means “The Southern land”.</item>
+        <item>My name means \"The Southern land\".</item>
         <item>Most of my people follow Christianity.</item>
         <item>Most of my people speak English.</item>
         <item>My people play many sports, including cricket and rugby.</item>
         <item>My currency is called the Dollar.</item>
-        <item>I don’t share a border with anybody else.</item>
+        <item>I don\'t share a border with anybody else.</item>
         <item>My population is about 25 million.</item>
         <item>My capital is Canberra.</item>
         <item>My people enjoy eating meat pies and vegemite on toast.</item>
         <item>I am home to the longest fence in the world.</item>
 
-        <item>My name means “Eastern land”.</item>
+        <item>My name means \"Eastern land\".</item>
         <item>My population is about 9 million.</item>
         <item>Most of my people follow Christianity.</item>
         <item>My people speak German.</item>
@@ -104,7 +232,7 @@
         <item>My people enjoy eating wiener schnitzel, type of schnitzel made of a thin, breaded, pan-fried veal cutlet.</item>
         <item>I am home to the largest ice cave in the world.</item>
 
-        <item>My name means “Land of the holy fire”.</item>
+        <item>My name means \"Land of the holy fire\".</item>
         <item>My people follow Islam.</item>
         <item>My people speak a Turkic language.</item>
         <item>My people enjoy playing soccer and chess.</item>
@@ -114,5 +242,1403 @@
         <item>My capital is Baku.</item>
         <item>My people enjoy eating dolma, a stuffed dish using tomato, pepper, onion, zucchini, eggplant and/or pointed gourd.</item>
         <item>I am the birthplace of crude oil wells. My people even use oil for bathing.</item>
+
+        <item>My name means \"The two seas\".</item>
+        <item>Most of my people follow Islam, some Christianity, some Hinduism.</item>
+        <item>My official language is Arabic.</item>
+        <item>My people enjoy soccer, basketball and volleyball.</item>
+        <item>My currency is known as the Dinar.</item>
+        <item>I share no land border with anyone.</item>
+        <item>My population is about 1.5 million.</item>
+        <item>My capital is Manama.</item>
+        <item>My people enjoy eating kabsa, a dish made with rice and meat.</item>
+        <item>The ancient Greeks knew me as Tylos, and at that time I was renowned for my cotton trees and textile industry.</item>
+
+        <item>My name means \"Land of Vanga\", where Vanga refers to an ancient kingdom.</item>
+        <item>Most of my people follow Islam.</item>
+        <item>My people speak an Indo-Aryan language.</item>
+        <item>My people enjoy cricket.</item>
+        <item>My currency is known as Taka.</item>
+        <item>I share a border with India.</item>
+        <item>My population is about 160 million.</item>
+        <item>My capital is Dhaka.</item>
+        <item>My people enjoy eating rice and fish.</item>
+        <item>I am prone to monsoon flooding and cyclones, due to my unique geographic make up.</item>
+
+        <item>My name means \"Land of the people who swell with anger and battle fury\".</item>
+        <item>Most of my people follow Christianity.</item>
+        <item>My people speak Dutch, German and French.</item>
+        <item>My people enjoy many sports, including soccer, cycling and tennis.</item>
+        <item>My currency is the Euro.</item>
+        <item>I share a border with France.</item>
+        <item>My population is about 11 million.</item>
+        <item>My capital is Brussels.</item>
+        <item>My people enjoy eating potato fries, mussels and chocolate mousse.</item>
+        <item>I hold the world record for longest period without an elected government for a democratic nation.</item>
+
+        <item>My name means \"Land of the ember-coloured trees\".</item>
+        <item>Most of my people follow Christianity.</item>
+        <item>My people speak Portuguese.</item>
+        <item>My people enjoy soccer.</item>
+        <item>My currency is called the Real.</item>
+        <item>I share a border with Peru.</item>
+        <item>My population is about 210 million.</item>
+        <item>My capital is Brasilia.</item>
+        <item>My people enjoy eating feijoada, a stew of beans with beef and pork.</item>
+        <item>I was the last country in the Americas to abolish slavery.</item>
+
+        <item>I share a border with Serbia.</item>
+        <item>My name means \"Land of the mixed-race people\".</item>
+        <item>Most of my people follow Christianity.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>My people enjoy soccer.</item>
+        <item>My currency is the Lev.</item>
+        <item>My population is around 7 million.</item>
+        <item>My capital is Sofia.</item>
+        <item>My people enjoy eating Shopska salad, a salad of chopped cucumbers, onions, peppers, and tomatoes with white cheese.</item>
+        <item>My people nod up and down to say no, and left and right to say yes.</item>
+
+        <item>My name means \"Land of the Kambojas\", where the Kambojas were an ancient Indo-Iranian tribe.</item>
+        <item>I share a border with Thailand.</item>
+        <item>Most of my people follow Buddhism.</item>
+        <item>My people speak Khmer.</item>
+        <item>My people enjoy soccer and martial arts.</item>
+        <item>My currency is known as the Riel.</item>
+        <item>My population is about 16 million.</item>
+        <item>My capital is Phnom Penh.</item>
+        <item>My people enjoy ho mok, a dish of steam cooked curry in banana leaves.</item>
+        <item>I have changed my name six times in the last 65 years.</item>
+
+        <item>My name means \"Shrimp\".</item>
+        <item>I share a border with Nigeria.</item>
+        <item>Most of my people follow Christianity, some Islam.</item>
+        <item>My people speak English and French.</item>
+        <item>My people enjoy soccer, canoe racing and tug of war.</item>
+        <item>My currency is known as the Franc.</item>
+        <item>My population is around 25 million.</item>
+        <item>My capital is Yaounde.</item>
+        <item>My people enjoy eating ndole, a dish consisting of stewed nuts, bitter leaves, and fish or beef.</item>
+        <item>I was the first African country to reach the soccer.world cup semi-finals.</item>
+
+        <item>My name means \"Settlement\".</item>
+        <item>I share a border with the USA.</item>
+        <item>Most of my people are Christian.</item>
+        <item>My people speak English and French.</item>
+        <item>My people enjoy basketball and ice hockey.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My population is around 38 million.</item>
+        <item>My capital is Ottawa.</item>
+        <item>My people enjoy eating poutine, a dish of french fries and cheese curds topped with a brown gravy.</item>
+        <item>I am the second largest country in the world, and have more lakes than the rest of the world combined.</item>
+
+        <item>My name means \"Where the land ends\".</item>
+        <item>I share a border with Bolivia.</item>
+        <item>Most of my people are Christians.</item>
+        <item>My people speak Spanish.</item>
+        <item>My people enjoy soccer.</item>
+        <item>My currency is known as the Peso.</item>
+        <item>My population is about 19 million.</item>
+        <item>My capital is Santiago.</item>
+        <item>My people enjoy eating empanada, a type of baked or fried turnover consisting of pastry and filling.</item>
+        <item>I am one of the only countries to have a government sponsored UFO research organization.</item>
+
+        <item>Most of my people consider themselves Atheists.</item>
+        <item>My currency is known as the Yuan.</item>
+        <item>My capital is Beijing.</item>
+        <item>My population is about 1.4 billion.</item>
+        <item>My people speak an East Asian language.</item>
+        <item>I share a border with Myanmar.</item>
+        <item>I am named after an old dynasty.</item>
+        <item>My people enjoy playing table tennis.</item>
+        <item>My people enjoy eating duck.</item>
+        <item>I have only one timezone.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Peso.</item>
+        <item>My capital is Bogota.</item>
+        <item>My population is about 50 million.</item>
+        <item>My people speak Spanish.</item>
+        <item>I share a border with Venezuela.</item>
+        <item>My name means \"Land of Columbus\".</item>
+        <item>My people enjoying playing Tejo, where you throw a metal puck onto a wooden post.</item>
+        <item>My people enjoy eating Ajiaco, a soup of chicken, potatoes and herbs.</item>
+        <item>I am home to pink dolphins.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Franc.</item>
+        <item>My capital is Kinshasa.</item>
+        <item>My population is about 84 million.</item>
+        <item>My official language is French.</item>
+        <item>I share a border with Zambia.</item>
+        <item>My name roughly means \"Hunting people\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating rice, plantain and potatoes.</item>
+        <item>I am home to the oldest national park in Africa.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Colon.</item>
+        <item>My capital is San Jose.</item>
+        <item>My population is about 5 million.</item>
+        <item>My people speak Spanish and English.</item>
+        <item>I share a border with Nicaragua.</item>
+        <item>My name means \"rich coast\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating gallo pinto, a dish of rice, beans and other ingredients such as cooked bell peppers, chopped onions, and garlic.</item>
+        <item>My capital city allows car owners to drive only 6 days a week.</item>
+
+        <item>Most of my people follow Christianity or Islam.</item>
+        <item>My currency is known as the Franc.</item>
+        <item>My capital is Yamoussoukro.</item>
+        <item>My population is about 25 million.</item>
+        <item>My official language is French.</item>
+        <item>I share a border with Liberia.</item>
+        <item>My name means \"Coast of ivory\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating attiéké, a dish made from fermented cassava (a woody shrub).</item>
+        <item>I am the world\'s leading producer of cocoa beans.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Kuna.</item>
+        <item>My capital is Zagreb.</item>
+        <item>My population is about 4 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Slovenia.</item>
+        <item>My name comes from an Old Persian name for a river.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating zagorski štrukli, a dish composed of dough and various types of filling which can be either cooked or baked.</item>
+        <item>One of my people founded the country San Marino.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Peso.</item>
+        <item>My capital is Havana.</item>
+        <item>My population is about 11 million.</item>
+        <item>My people speak Spanish.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Abundant fertile land\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating ropa vieja, a dish consisting of shredded or pulled stewed beef with vegetables.</item>
+        <item>I am one of the few remaining communist states.</item>
+
+        <item>Most of my people follow Christianity or consider themselves Atheists.</item>
+        <item>My currency is known as the Koruna.</item>
+        <item>My capital is Prague.</item>
+        <item>My population is about 11 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Austria.</item>
+        <item>I am named after an old dynasty.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating vepřo-knedlo-zelo, a dish of roast pork with dumplings and sauerkraut.</item>
+        <item>I have the more castles than any other country in Europe.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Krone.</item>
+        <item>My capital is Copenhagen.</item>
+        <item>My population is about 6 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Germany.</item>
+        <item>My name means \"Low, flat borderland\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating stegt flæsk, a consisting of fried pork belly and generally served with potatoes and a white sauce with chopped parsley.</item>
+        <item>I have the oldest flag in the world.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Peso.</item>
+        <item>My capital is Santo Domingo.</item>
+        <item>My population is about 11 million.</item>
+        <item>My people speak Spanish.</item>
+        <item>I share a border with Haiti.</item>
+        <item>My name means \"Saint Dominic\'s people\".</item>
+        <item>My people enjoy playing baseball.</item>
+        <item>My people enjoy eating la bandera (rice, beans and meat).</item>
+        <item>I used to go by the name of Hispaniola.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Quito.</item>
+        <item>My population is about 17 million.</item>
+        <item>My people speak Spanish.</item>
+        <item>I share a border with Colombia.</item>
+        <item>My name means \"Equator\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating encebollado, a kind of fish stew.</item>
+        <item>For me, winter and summer occur at the same time.</item>
+
+        <item>Most of my people follow Islam, some Christianity.</item>
+        <item>My currency is known as the Pound.</item>
+        <item>My capital is Cairo.</item>
+        <item>My population is about 98 million.</item>
+        <item>My people speak Arabic.</item>
+        <item>I share a border with Sudan.</item>
+        <item>My name means \"Home of the soul of the creator\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating falafel, and also ful medames, a stew of cooked fava beans served with vegetable oil, cumin, and optionally with chopped parsley, garlic, onion, lemon juice, chili pepper and other vegetable, herb and spice ingredients.</item>
+        <item>I am famous for pyramid structures.</item>
+
+        <item>Most of my people don\'t follow any religion, some Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Tallinn.</item>
+        <item>My population is about 1.3 million.</item>
+        <item>My people speak a Uralic language.</item>
+        <item>I share a border with Latvia.</item>
+        <item>My name means \"Land of the Eastern people\".</item>
+        <item>My people enjoy playing ice cricket, a variant of cricket played on a frozen lake. They also enjoy the sport of wife-carrying, where men race while carrying their wives.</item>
+        <item>My people enjoy eating räim (a kind of herring).</item>
+        <item>I was the first country to allow its citizens to vote online.</item>
+
+        <item>Most of my people follow Christianity or Islam.</item>
+        <item>My currency is known as the Birr.</item>
+        <item>My capital is Addis Ababa.</item>
+        <item>My population is about 109 million.</item>
+        <item>My people speak many languages, including Amharic, Arabic and English.</item>
+        <item>I share a border with Sudan.</item>
+        <item>My name means \"Land of the black people\".</item>
+        <item>My people enjoy long-distance running.</item>
+        <item>My people enjoy eating wat, a stew or curry that may be prepared with chicken, beef, lamb, a variety of vegetables, and spice mixtures.</item>
+        <item>I am the birthplace of coffee.</item>
+
+        <item>Most of my people follow Christianity or Hinduism.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Suva.</item>
+        <item>My population is about 880,000.</item>
+        <item>My official language is English.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Look-out\".</item>
+        <item>My people enjoy playing rugby.</item>
+        <item>My people enjoy eating stews, curries and soups made from meat/fish or chicken</item>
+        <item>My people enjoy eating kokodam, a dish made with fresh, raw fish that is marinated in a combination of coconut milk and citrus juices such as lemons and limes.</item>
+        <item>Prior to modern times, I have a long history of cannibalism.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Helsinki.</item>
+        <item>My population is about 5.5 million.</item>
+        <item>My people speak an Uralic language.</item>
+        <item>I share a border with Sweden.</item>
+        <item>My name means \"Land of the hunters\".</item>
+        <item>My people enjoy playing ice hockey. They also enjoy the sport of wife-carrying, where men race while carrying their wives.</item>
+        <item>My people enjoy eating Karjalanpaisti, a meat stew.</item>
+        <item>My people celebrate a National Failure Day, which allows them to learn from their mistakes and not repeat them.</item>
+
+        <item>Most of my people follow Christianity or no religion.</item>
+        <item>My currencies are known as the Euro, and the Franc.</item>
+        <item>My capital is Paris.</item>
+        <item>My population is about 67 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Belgium.</item>
+        <item>My name means \"Land of the spear wielders\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating pot-au-feu, a beef stew, steak with potato fries, crepes, and baguettes.</item>
+        <item>My army was the first to create a dedicated camouflage unit.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Iari.</item>
+        <item>My capital is Tbilisi.</item>
+        <item>My population is about 3.7 million.</item>
+        <item>My people speak a Kartvelian language.</item>
+        <item>I share border with Armenia.</item>
+        <item>My name means \"Agricultural land\".</item>
+        <item>My people enjoy playing rugby.</item>
+        <item>My people enjoy eating Khachapuri, a dish of cheese-filled bread.</item>
+        <item>Joseph Stalin was one of my people.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Berlin.</item>
+        <item>My population is about 83 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with France.</item>
+        <item>My name means \"Land of the neighbours\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating Sauerbraten, a roast of heavily marinated meat.</item>
+        <item>The world\'s first printed book was in my people\'s language.</item>
+
+        <item>Most of my people follow Christianity, some Islam.</item>
+        <item>My currency is known as the Cedi.</item>
+        <item>My capital is Accra.</item>
+        <item>My population is about 30 million.</item>
+        <item>My official language is English.</item>
+        <item>I share a border with Ivory Coast.</item>
+        <item>My name means \"Warrior king\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating fufu, a dish of crushed cassava (a wooden shrub) and plantains.</item>
+        <item>I was the first sub-Saharan nation in Africa to gain independence.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Athens.</item>
+        <item>My population is about 11 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Albania.</item>
+        <item>My name means \"Old woman\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy horiatiki salad, a salad made with pieces of tomatoes, cucumbers, onion, feta cheese, olives, and dressed with salt, pepper, oregano, and olive oil, and also souvlaki, a dish of meat and vegetables grilled on a skewer.</item>
+        <item>The phrase \"take the bull by its horns\" comes from one of my people\'s folk tales.</item>
+
+        <item>Most of my people follow Christianity, some Voodoo.</item>
+        <item>My currency is known as the Gourde.</item>
+        <item>My capital is Port-au-Prince</item>
+        <item>My population is about 11 million.</item>
+        <item>My people speak Creole and French.</item>
+        <item>I share a border with Dominican Republic.</item>
+        <item>My name means \"Mountainous land\".</item>
+        <item>My people enjoy playing soccer. They also enjoy cockfighting.</item>
+        <item>My people enjoy eating poulet aux noix, a dish featuring chicken and cashews.</item>
+        <item>I am the poorest country in the western hemisphere.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Iempira.</item>
+        <item>My capital is Tegucigalpa.</item>
+        <item>My population is about 9.5 million.</item>
+        <item>My official language is Spanish.</item>
+        <item>I share a border with Nicaragua.</item>
+        <item>My name means \"Depths\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating plato típico: a dish of beef, plantains, beans, marinated cabbage, fresh cream, and tortillas.</item>
+        <item>I have been referred to as a banana republic in the past, due to my over reliance on banana exports.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Forint.</item>
+        <item>My capital is Budapest.</item>
+        <item>My population is about 9.7 million.</item>
+        <item>My people speak Magyar.</item>
+        <item>I share a border with Romania.</item>
+        <item>My name means \"People of the ten arrows\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating goulash, a soup of meat and vegetables usually seasoned with paprika and other spices.</item>
+        <item>Thanks to an abundance of natural hot springs, I am home to around 450 public spas and bathhouses.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Krona.</item>
+        <item>My capital is Reykjavik.</item>
+        <item>My population is about 364,000.</item>
+        <item>My people speak multiple Indo-European languages.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Land of ice\".</item>
+        <item>My people enjoy playing handball.</item>
+        <item>My people enjoy eating lamb and shark.</item>
+        <item>I was among the last landmasses to be settled by humans.</item>
+
+        <item>My people follow Sikhism, Islam, Buddhism, Hinduism, and Jainism.</item>
+        <item>My currency is known as the Rupee.</item>
+        <item>My capital is New Delhi.</item>
+        <item>My population is about 1.3 billion.</item>
+        <item>My people speak many different languages.</item>
+        <item>I share a border with Nepal.</item>
+        <item>My name means \"Land of the Indus river\".</item>
+        <item>My people enjoy playing kabaddi, cricket and hockey.</item>
+        <item>My people enjoy eating a wide variety of vegetable dishes and curries, roti, tandoori style dishes, chicken and lamb.</item>
+        <item>I am home to one of the oldest civilizations in the world. I am home to some of the earliest advances in algebra and trigonometry, and also to the game of chess.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Rupiah.</item>
+        <item>My capital is Jakarta.</item>
+        <item>My population is about 267 million.</item>
+        <item>My people speak an Austronesian language.</item>
+        <item>I share a border with Malaysia.</item>
+        <item>My name means \"Indian islands\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating Nasi goreng, a dish of stir-fried rice and pieces of meat and vegetables added.</item>
+        <item>I am home to the world\'s largest lizard.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Rial.</item>
+        <item>My capital is Tehran.</item>
+        <item>My population is about 81 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Turkmenistan.</item>
+        <item>My name means \"Land of the Aryans\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy Abgoosht, a soup usually made with lamb, chickpeas, white beans, onion, potatoes, tomatoes, turmeric, and dried lime, and also ghormeh sabzi, a herb stew.</item>
+        <item>I have 22 ski resorts, more than the entire South American continent.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Dinar.</item>
+        <item>My capital is Baghdad.</item>
+        <item>My population is about 38 million.</item>
+        <item>My people speak Arabic.</item>
+        <item>I share a border with Turkey.</item>
+        <item>My name means \"Fertile lowlands\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating masgouf, a dish consisting of seasoned, grilled carp.</item>
+        <item>My capital was the largest multicultural city in the middle ages.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Dublin.</item>
+        <item>My population is about 4.9 million.</item>
+        <item>My people speak multiple Indo-European languages.</item>
+        <item>I share a border with the United Kingdom.</item>
+        <item>My name means \"The fertile place\".</item>
+        <item>My people enjoy playing rugby.</item>
+        <item>My people enjoy eating bread rolls filled with ham, sausage, or egg.</item>
+        <item>I am sometimes referred to as the Emerald Isle.</item>
+
+        <item>Most of my people follow Judaism.</item>
+        <item>My currency is known as the Shekel.</item>
+        <item>My capital is Jerusalem.</item>
+        <item>My population is about 8.8 million.</item>
+        <item>My people speak an Afro-Asiatic language.</item>
+        <item>I share a border with Egypt.</item>
+        <item>My name means \"Will struggle with God\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating falafel, and also chopped salads of finely diced tomato, onion, cucumber, and bell or chili peppers.</item>
+        <item>I have more in-vitro fertilization per capita than any other country.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Rome.</item>
+        <item>My population is about 60 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Switzerland.</item>
+        <item>My name means \"Land of calves\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating pasta and pizza.</item>
+        <item>My capital city was founded about 2500 years ago.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Kingston.</item>
+        <item>My population is about 2.9 million.</item>
+        <item>My people speak English and Creole.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Land of wood and water\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating ackee and saltfish (ackee, a fruit, with salted codfish), and also jerk chicken.</item>
+        <item>I am one of only two countries in the world whose flag doesn\'t contain red, white or blue.</item>
+
+        <item>Most of my people follow Shintoism or Buddhism.</item>
+        <item>My currency is known as the Yen.</item>
+        <item>My capital is Tokyo.</item>
+        <item>My population is about 126 million.</item>
+        <item>My people speak an East Asian language.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Land of the rising sun\".</item>
+        <item>My people enjoy sumo wrestling.</item>
+        <item>My people enjoy eating sushi, and ramen, a noodle soup.</item>
+        <item>I have the most densely populated capital city in the world.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Dinar.</item>
+        <item>My capital is Amman.</item>
+        <item>My population is about 10 million.</item>
+        <item>My people speak Arabic and English.</item>
+        <item>I share a border with Syria.</item>
+        <item>My name means \"Descend\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating mansaf, a dish made of lamb cooked in a sauce of fermented dried yogurt and served with rice.</item>
+        <item>My people consider it courteous to refuse a meal three times before actually accepting it.</item>
+
+        <item>Most of my people follow Islam, some Christianity.</item>
+        <item>My currency is known as the Tenge.</item>
+        <item>My capital is Nur-Sultan.</item>
+        <item>My population is about 18 million.</item>
+        <item>My people speak multiple Indo-European languages.</item>
+        <item>I share a border with Russia.</item>
+        <item>My name means \"Land of the free\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating beshbarmak, a dish usually made from finely chopped boiled meat, mixed with noodles and chyk, an onion sauce.</item>
+        <item>I am likely the home of the earliest horse riders.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Shilling.</item>
+        <item>My capital is Nairobi.</item>
+        <item>My population is about 51 million.</item>
+        <item>My people speak English and Swahili.</item>
+        <item>I share a border with Ethiopia.</item>
+        <item>My name means \"White mountain\".</item>
+        <item>My people enjoy long-distance running.</item>
+        <item>My people enjoy eating ugali, a maize flour porridge.</item>
+        <item>I am the suspected birthplace of the human race.</item>
+
+        <item>Most of my people don\'t follow any religion.</item>
+        <item>My currency is known as the Won.</item>
+        <item>My capital is Pyongyang.</item>
+        <item>My population is about 25 million.</item>
+        <item>My people speak and East Asian language.</item>
+        <item>I share a border with Russia.</item>
+        <item>My name means \"Northern lofty city\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating naengmyeon, a dish of long and thin handmade noodles made from the flour and starch of various ingredients.</item>
+        <item>I created my own timezone.</item>
+
+        <item>Most of my people don\'t follow any religion, some Christianity, some Buddhism.</item>
+        <item>My currency is known as the Won.</item>
+        <item>My capital is Seoul.</item>
+        <item>My population is about 51 million.</item>
+        <item>My people speak an East Asian language.</item>
+        <item>I share a border with North Korea.</item>
+        <item>My name means \"Southern lofty city\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating bulgogi, a dish made of thin, marinated slices of beef or pork.</item>
+        <item>I have the most plastic surgeries per capita in the world.</item>
+
+        <item>Most of my people follow Islam, some Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Pristina.</item>
+        <item>My population is about 1.8 million</item>
+        <item>My people speak multiple Indo-European languages.</item>
+        <item>I share a border with Albania.</item>
+        <item>My name means \"Field of the blackbird\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating flia, a dish of multiple crêpe-like layers brushed with cream and served with sour cream.</item>
+        <item>My people have the youngest average age in all of Europe.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Dinar.</item>
+        <item>My capital is Kuwait City.</item>
+        <item>My population is about 4 million.</item>
+        <item>My people speak Arabic and English.</item>
+        <item>I share a border with Iraq.</item>
+        <item>My name means \"Fortress built near water\".</item>
+        <item>My people enjoy playing basketball.</item>
+        <item>My people enjoy eating machboos laham, a dish which combines basmati rice and meat with a mixture of fried onions, raisins, and yellow split peas.</item>
+        <item>I have the highest valued currency in the world, with 1 local unit of currency worth about 3.25 US dollars.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Som.</item>
+        <item>My capital is Bishkek.</item>
+        <item>My population is about 6.3 million.</item>
+        <item>My people speak a Turkic and an Indo-European language.</item>
+        <item>I share a border with China.</item>
+        <item>My name means \"Land of the forty tribes\".</item>
+        <item>My people enjoy playing buzkashi, where riders on horses battle for a goat carcass that serves as a ball.</item>
+        <item>My people enjoy eating beshbarmak, a dish usually made from finely chopped boiled meat, mixed with noodles and chyk, an onion sauce.</item>
+        <item>I am one of the world\'s least crowded countries.</item>
+
+        <item>Most of my people follow Buddhism.</item>
+        <item>My currency is known as the Kip.</item>
+        <item>My capital is Vientiane.</item>
+        <item>My population is about 7 million.</item>
+        <item>My people speak an East Asian language, and also French and English.</item>
+        <item>I share a border with China.</item>
+        <item>I am named after an ancient tribe.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating larb, a type of meat salad. They also eat lots of sticky rice.</item>
+        <item>I am one of the few remaining communist states.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Riga.</item>
+        <item>My population is about 1.9 million.</item>
+        <item>My people speak multiple Indo-European languages.</item>
+        <item>I share a border with Russia.</item>
+        <item>My name means \"Land of the forest-clearers\".</item>
+        <item>My people enjoy playing basketball, soccer and ice hockey.</item>
+        <item>My people enjoy eating pelēkie zirņi ar speki, a type of stew made with grey peas, fried onions, and diced speck.</item>
+        <item>I was one of the last regions of Europe to join Christendom.</item>
+
+        <item>Most of my people follow Christianity or Islam.</item>
+        <item>My currency is known as the Pound.</item>
+        <item>My capital is Beirut.</item>
+        <item>My population is about 6.8 million.</item>
+        <item>My people speak Arabic, French and English.</item>
+        <item>I share a border with Israel.</item>
+        <item>My name means \"Land of the white mountain\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy kibbeh, a family of dishes based on spiced ground meat and grain, and also tabbouleh, a vegetarian salad made mostly of finely chopped parsley, with tomatoes, mint, onion, bulgur, and seasoned with olive oil, lemon juice, salt and sweet pepper.</item>
+        <item>The Phoenicians were my people.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Monrovia.</item>
+        <item>My population is about 4.8 million.</item>
+        <item>My official language is English.</item>
+        <item>I share a border with Ivory Coast.</item>
+        <item>My name means \"Land of the free\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy dumboy, a dish made from cassava (a woody shrub).</item>
+        <item>I was founded as a region to which freed slaves in the USA could migrate.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Dinar.</item>
+        <item>My capital is Tripoli.</item>
+        <item>My population is about 6.7 million.</item>
+        <item>My people speak Arabic, Italian and English.</item>
+        <item>I share a border with Egypt.</item>
+        <item>I am named after an ancient tribe.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating couscous, a dish prepared with stewed beef, sweet potatoes, carrots and garbanzo beans in a spicy hararat tomato sauce.</item>
+        <item>I prohibit alcohol consumption.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Franc.</item>
+        <item>My capital is Vaduz.</item>
+        <item>My population is about 39,000.</item>
+        <item>My people speak German.</item>
+        <item>I share a border with Austria.</item>
+        <item>My name means \"Light stone\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating käsknöpfle, a simple dough made of flour, eggs, water, salt and pepper.</item>
+        <item>I am a historically neutral nation. In my last military engagement, which was in 1886, I had only 80 soldiers go, and even came back with 81, because they made a new Italian friend along the way.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Vilnius.</item>
+        <item>My population is about 2.7 million.</item>
+        <item>My people speak multiple Indo-European languages.</item>
+        <item>I share a border with Poland.</item>
+        <item>My name means \"Land of the united\".</item>
+        <item>My people enjoy playing basketball.</item>
+        <item>My people enjoy eating cepelinai, a dish of dough made from grated and riced potatoes and stuffed with ground meat or dry curd cheese or mushrooms.</item>
+        <item>My people\'s native language is likely among the oldest living Indo-European languages.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Luxembourg City.</item>
+        <item>My population is about 613,000.</item>
+        <item>My people speak multiple Indo-European languages.</item>
+        <item>I share a border with France.</item>
+        <item>My name means \"Little castle\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating judd mat gaardebounen, a savory dish of smoked pork collar and broad beans.</item>
+        <item>I have the second highest per capita income in the world.</item>
+
+        <item>Most of my people follow either Christianity or a form of Animism.</item>
+        <item>My currency is known as the Ariary.</item>
+        <item>My capital is Antananarivo.</item>
+        <item>My population is about 26 million.</item>
+        <item>My people speak Malagasy and French.</item>
+        <item>I don\'t share a border for anybody.</item>
+        <item>My name means \"Sight-killer\".</item>
+        <item>My people enjoy playing soccer, boxing, athletics and other sports.</item>
+        <item>My people enjoy eating romazava, a dish consisting of greens, zebu meat, tomatoes, and onions, typically accompanied by a portion of rice.</item>
+        <item>I am the largest single island country.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Ringgit.</item>
+        <item>My capital is Kuala Lumpur.</item>
+        <item>My population is about 31 million.</item>
+        <item>My people speak Indo-European, East Asian and other languages.</item>
+        <item>I share a border with Indonesia.</item>
+        <item>My name means \"Land of the runners\".</item>
+        <item>My people enjoy playing soccer, hockey and badminton.</item>
+        <item>My people enjoy eating nasi lemak, a dish consisting of fragrant rice cooked in coconut milk and pandan leaf.</item>
+        <item>I contain the world\'s largest roundabout.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Peso.</item>
+        <item>My capital is Mexico City.</item>
+        <item>My population is about 126 million.</item>
+        <item>My people speak Spanish.</item>
+        <item>I share a border with the United States.</item>
+        <item>My name means \"Place in the middle of the century plant\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating tacos.</item>
+        <item>I once had three different presidents within one hour.</item>
+
+        <item>Most of my people follow Buddhism or no religion.</item>
+        <item>My currency is known as the Togrog.</item>
+        <item>My capital is Ulaanbaatar.</item>
+        <item>My population is about 3.1 million.</item>
+        <item>My people speak an East Asian language.</item>
+        <item>I share a border with Russia.</item>
+        <item>My name means \"Land of the eternal sky fire\".</item>
+        <item>My people enjoy archery, wrestling and horse racing.</item>
+        <item>My people enjoy eating cooked mutton.</item>
+        <item>I am a landlocked country, but I have a navy, with just one ship.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Dirham.</item>
+        <item>My capital is Rabat.</item>
+        <item>My population is about 36 million.</item>
+        <item>My people speak Arabic.</item>
+        <item>I share a border with Spain.</item>
+        <item>My name means \"Land of God\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating couscous, a dish of small steamed balls of crushed durum wheat semolina.</item>
+        <item>I have one of the oldest universities in the world.</item>
+
+        <item>Some of my people follow Christianity, some Islam, some none.</item>
+        <item>My currency is known as the Metical.</item>
+        <item>My capital is Maputo.</item>
+        <item>My population is about 29 million.</item>
+        <item>My people speak Portuguese, Emakhuwa and many other languages.</item>
+        <item>I share a border with Zimbabwe.</item>
+        <item>I am named after an old king.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating shrimp and prawns.</item>
+        <item>My flag is the only one with a modern weapon on it.</item>
+
+        <item>Most of my people follow Buddhism.</item>
+        <item>My currency is known as the Kyat.</item>
+        <item>My capital is Naypyitaw.</item>
+        <item>My population is about 53 million.</item>
+        <item>My people speak an East Asian language.</item>
+        <item>I share a border with Bangladesh.</item>
+        <item>My name means \"Creator God\".</item>
+        <item>My people enjoy playing chinlone, a sport similar to hackey-sack.</item>
+        <item>My people enjoy eating mohinga, a rice noodle and fish soup.</item>
+        <item>I am one of three counties in the world which don\'t use the metric system.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Windhoek.</item>
+        <item>My population is about 2.4 million.</item>
+        <item>My people speak English, Afrikaans, German and other languages.</item>
+        <item>I share a border with South Africa.</item>
+        <item>My name means \"Area where there is nothing\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating oshifima, a doughlike paste made from millet, usually served with a stew of vegetables or meat.</item>
+        <item>I am home to the world\'s oldest desert.</item>
+
+        <item>Most of my people follow Hinduism, some Buddhism.</item>
+        <item>My currency is known as the Rupee.</item>
+        <item>My capital is Kathmandu.</item>
+        <item>My population is about 28 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with China.</item>
+        <item>My name means \"Those who domesticate cattle\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating dal bhat, a dish of steamed rice with a cooked lentil soup.</item>
+        <item>I am home to the tallest mountain in the world.</item>
+
+        <item>Most of my people follow Christianity or no religion.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Amsterdam.</item>
+        <item>My population is about 17 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Belgium.</item>
+        <item>My name means \"Lowlands\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating herring sandwiches.</item>
+        <item>My people invented the first stock market in the world.</item>
+
+        <item>Most of my people follow Christianity or no religion.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Wellington.</item>
+        <item>My population is about 4.8 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"New sea land\".</item>
+        <item>My people enjoy playing rugby.</item>
+        <item>My people enjoy eating meat pies and lamb.</item>
+        <item>I am home to the world\'s first commercial bungee jump location.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Cordoba.</item>
+        <item>My capital is Managua.</item>
+        <item>My population is about 6.4 million.</item>
+        <item>My people speak Spanish.</item>
+        <item>I share a border with Costa Rica.</item>
+        <item>I am named after an old ruler.</item>
+        <item>My people enjoy playing baseball.</item>
+        <item>My people enjoy eating nacatamal, a dish made up of mostly nixtamalized corn masa (a kind of dough) and lard,</item>
+        <item>I am home to the world\'s only dual volcano, fed by two separate flows of magma.</item>
+
+        <item>Most of my people follow Islam or Christianity.</item>
+        <item>My currency is known as the Naira.</item>
+        <item>My capital is Abuja.</item>
+        <item>My population is about 195 million.</item>
+        <item>My people speak English, Hausa, Igbo and other languages.</item>
+        <item>I share a border with Cameroon.</item>
+        <item>My name means \"Land of the flowing water\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating tuwon shinkafa, a thick pudding prepared from a local rice or Maize or millet that is soft and sticky.</item>
+        <item>I am the most populous country in Africa.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Krone.</item>
+        <item>My capital is Oslo.</item>
+        <item>My population is about 5.4 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Russia.</item>
+        <item>My name means \"Northern way\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating fårikål, a dish consisting of pieces of mutton with bone, cabbage, whole black pepper and occasionally a little wheat flour, cooked for several hours in a casserole, traditionally served with potatoes boiled in their skins.</item>
+        <item>I am where the Nobel Peace Prize is awarded.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Rial.</item>
+        <item>My capital is Muscat.</item>
+        <item>My population is about 4.8 million.</item>
+        <item>My people speak Arabic.</item>
+        <item>I share a border with Saudi Arabia.</item>
+        <item>My name means \"Settled people\".</item>
+        <item>My people enjoy racing with horses, camels and boats.</item>
+        <item>My people enjoy eating quzi, a dish served with very slowly cooked lamb, roasted nuts, raisins and served over rice.</item>
+        <item>I both surround and am surrounded by one and the same country.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Rupee.</item>
+        <item>My capital is Islamabad.</item>
+        <item>My population is about 212 million.</item>
+        <item>My people speak multiple Indo-European languages.</item>
+        <item>I share a border with Iran.</item>
+        <item>My name means \"Land of the pure\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating nihari, a stew consisting of slow-cooked meat, mainly shank meat of beef or lamb and mutton, goat meat and chicken, along with bone marrow. They also enjoy gulab jamun, a milk-solid-based sweet.</item>
+        <item>I am home to the third largest non-polar glacier in the world, though am at the same latitude as Texas, USA.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currencies are known as the Balboa, and the Dollar.</item>
+        <item>My capital is Ciudad de Panama.</item>
+        <item>My population is about 4.1 million.</item>
+        <item>My people speak Spanish and English.</item>
+        <item>I share a border with Colombia.</item>
+        <item>My name means \"Place of many fish\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating sancocho, a soup made with chicken and smoked ham, top round beef, pork feet with chickpeas, or beef short ribs with chorizo.</item>
+        <item>I am the only place in the world where you can see the sun rise on the Pacific and set on the Atlantic.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Kina.</item>
+        <item>My capital is Port Moresby.</item>
+        <item>My population is about 8.6 million.</item>
+        <item>My people speak Tok Pisin, Hiri Motu and many other languages.</item>
+        <item>I share a border with Indonesia.</item>
+        <item>My name means \"New land of frizzly-haired and dark-skinned people\".</item>
+        <item>My people enjoy playing rugby.</item>
+        <item>My people enjoy eating mumu, a dish composed of pork, sweet potato, rice, and vegetables.</item>
+        <item>The world\'s only known poisonous bird, the Hooded Pitohui is found here.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Guarani.</item>
+        <item>My capital is Asuncion.</item>
+        <item>My population is about 6.9 million.</item>
+        <item>My people speak Spanish and Guarani.</item>
+        <item>I share a border with Argentina.</item>
+        <item>My name means \"Crowned river\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating sopa paraguaya, a spongy cake made from corn flour, pig fat (lard) or butter, cheese and milk.</item>
+        <item>If you dig a hole in me and pass straight through the earth, you end up at the Philippines.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Sol.</item>
+        <item>My capital is Lima.</item>
+        <item>My population is about 32 million.</item>
+        <item>My people speak Spanish and Quechua.</item>
+        <item>I share a border with Brazil.</item>
+        <item>My name means \"River\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating ceviche, a dish typically made from fresh raw fish cured in fresh citrus juices, most commonly lemon or lime, and spiced with ají, chili peppers or other seasonings including chopped onions, salt, and coriander.</item>
+        <item>I am home to three-quarters of the world\'s alpaca population.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Peso.</item>
+        <item>My capital is Manila.</item>
+        <item>My population is about 106 million.</item>
+        <item>My people speak Tagalog and English.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>I am named after an old king.</item>
+        <item>My people enjoy playing basketball and boxing.</item>
+        <item>My people enjoy eating adobo, a dish comprising meat, seafood, or vegetables marinated in vinegar, soy sauce, garlic, bay leaves, and black peppercorns, which is browned in oil, and simmered in the marinade.</item>
+        <item>I produce and export more coconuts than any country in the world.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Zloty.</item>
+        <item>My capital is Warsaw.</item>
+        <item>My population is about 38 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Germany.</item>
+        <item>My name means \"Land of open fields\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating bigos (\"hunter stew\"), a dish of chopped meat of various kinds stewed with sauerkraut and shredded fresh cabbage.</item>
+        <item>In addition to birthdays, my people celebrate their name day, which is the day commemorating the Saint they are named after.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Lisbon.</item>
+        <item>My population is about 10 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Spain.</item>
+        <item>My name means \"Land of beautiful ports\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating dried and salted cod.</item>
+        <item>My language is the sixth most spoken in the world.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Rial.</item>
+        <item>My capital is Doha.</item>
+        <item>My population is about 2.7 million.</item>
+        <item>My people speak Arabic.</item>
+        <item>I share a border with Saudi Arabia.</item>
+        <item>My name means \"Inhabitants\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating machboos, a dish made with rice and meat.</item>
+        <item>I have the highest per capita income in the world.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Leu.</item>
+        <item>My capital is Bucharest.</item>
+        <item>My population is about 19.4 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Serbia.</item>
+        <item>My name means \"Roman realm\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating mămăligă, a porridge made out of yellow maize flour.</item>
+        <item>The earliest Homo sapiens fossils, up to now, were discovered in 2002 in my land.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Ruble.</item>
+        <item>My capital is Moscow.</item>
+        <item>My population is about 144 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Norway.</item>
+        <item>My name means \"Land of rowers\".</item>
+        <item>My people enjoy playing soccer and ice hockey.</item>
+        <item>My people enjoy eating pirozhki, a baked or fried yeast-leavened boat-shaped bun with a variety of fillings.</item>
+        <item>I am the largest country in the world.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Franc.</item>
+        <item>My capital is Kigali.</item>
+        <item>My population is about 12.3 million.</item>
+        <item>My people speak Kinyarwanda, French and English.</item>
+        <item>I share a border with Uganda.</item>
+        <item>My name means \"Large\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating brochettes, a dish consisting of meat or fish on a skewer.</item>
+        <item>My people officially dedicate the last Saturday of each month to community service.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Tala.</item>
+        <item>My capital is Apia.</item>
+        <item>My population is about 196,000.</item>
+        <item>My people speak an Austronesian and an Indo-European language.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Holy centre\".</item>
+        <item>My people enjoy playing rugby.</item>
+        <item>My people enjoy eating panipopo, a unique dessert consisting of buns baked in a sweet and sticky coconut cream sauce.</item>
+        <item>I am the first country in the world to experience new year\'s day.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is City of San Marino.</item>
+        <item>My population is about 34,000.</item>
+        <item>My people speak Italian.</item>
+        <item>I share a border with Italy.</item>
+        <item>I am named after an old saint.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating torta tre monti, a dessert with layers of waffled wafers that has a hazelnut cream between each one and chocolate icing on the sides.</item>
+        <item>I am the least visited country in Europe.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Riyal.</item>
+        <item>My capital is Riyadh.</item>
+        <item>My population is about 33 million.</item>
+        <item>My people speak Arabic.</item>
+        <item>I share a border with Jordan.</item>
+        <item>I am named after an old ruler and a nomadic way of life.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating kabsa, a dish made with rice and meat.</item>
+        <item>I am one of the major oil exporters of the world.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Franc.</item>
+        <item>My capital is Dakar.</item>
+        <item>My population is about 16 million.</item>
+        <item>My people speak French, Wolof and other languages.</item>
+        <item>I share a border with Mali.</item>
+        <item>My name means \"Body of water\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating thieboudienne, a dish prepared with fish, rice and tomato sauce cooked in one pot.</item>
+        <item>I am home to Africa\'s tallest statue.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Dinar.</item>
+        <item>My capital is Belgrade.</item>
+        <item>My population is about 6.9 million.</item>
+        <item>My people speak an Indo-European and a Uralic language.</item>
+        <item>I share a border with Romania.</item>
+        <item>My name means \"Family kinship/alliance\".</item>
+        <item>My people enjoy playing soccer, basketball and handball.</item>
+        <item>My people enjoy eating cevapi, a grilled dish of minced meat.</item>
+        <item>Nikola Tesla was one of my people.</item>
+
+        <item>Most of my people follow Islam, some Christianity.</item>
+        <item>My currency is known as the Leone.</item>
+        <item>My capital is Freetown.</item>
+        <item>My population is about 7.6 million.</item>
+        <item>My official language is English.</item>
+        <item>I share a border with Liberia.</item>
+        <item>My name means \"Lion mountains\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating groundnut stew, a stew which consists of chicken and vegetables that are flavored with ground nuts, such as peanuts.</item>
+        <item>I am well-known for diamond exports.</item>
+
+        <item>Most of my people follow Buddhism, Christianity or Islam.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>I have no capital city.</item>
+        <item>My population is about 5.6 million.</item>
+        <item>My people speak Mandarin, English, Malay and other languages.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Lion city\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating stir-fried crabs.</item>
+        <item>I am the largest city-state in the world.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Bratislava.</item>
+        <item>My population is about 5.4 million.</item>
+        <item>My people speak an Indo-European and a Uralic language.</item>
+        <item>I share a border with Austria.</item>
+        <item>My name means \"Land of the people who speak our language\".</item>
+        <item>My people enjoy playing soccer and ice hockey.</item>
+        <item>My people enjoy eating bryndzové halušky, a dish which consists of halušky (boiled lumps of potato dough) and bryndza (a soft sheep cheese, optionally sprinkled with cooked bits of smoked pork fat/bacon).</item>
+        <item>I contain the geographical midpoint of Europe.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Ljubljana.</item>
+        <item>My population is about 2.1 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Italy.</item>
+        <item>My name means \"Land of the people who speak our language\".</item>
+        <item>My people enjoy playing soccer, basketball, ice hockey and handball.</item>
+        <item>My people enjoy eating struklji, a dish of fruits wrapped in a dough made from buckwheat, egg, oil, warm water and salt.</item>
+        <item>I am home to more than 10,000 caves.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Shilling.</item>
+        <item>My capital is Mogadishu.</item>
+        <item>My population is about 15 million.</item>
+        <item>My people speak an African language, and also Arabic, English and Italian.</item>
+        <item>I share a border with Kenya.</item>
+        <item>I am named after an old ruler.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating spiced rice and bananas.</item>
+        <item>I received my first ATM machine in 2014.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Rand.</item>
+        <item>I have three capital cities: Pretoria, Bloemfontein and Cape Town.</item>
+        <item>My population is about 58 million.</item>
+        <item>My people speak English, Afrikaans, IsiZulu, IsiXhosa and other languages.</item>
+        <item>I share a border with Namibia.</item>
+        <item>My name means \"Southern dusty land\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating bobotie, a dish consisting of spiced minced meat baked with an egg-based topping.</item>
+        <item>The first human heart transplant was performed on my land.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>My capital is Madrid.</item>
+        <item>My population is about 47 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with France.</item>
+        <item>My name means \"Island of hyraxes\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating tortilla de patatas, an omelette made with eggs and potatoes, optionally including onion.</item>
+        <item>I am home to a tomato throwing festival, and a running of the bulls festival.</item>
+
+        <item>Most of my people follow Buddhism, some Hinduism, some Islam and some Christianity.</item>
+        <item>My currency is known as the Rupee.</item>
+        <item>My capital is Colombo.</item>
+        <item>My population is about 22 million.</item>
+        <item>My people speak Sinhala and Tamil.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Holy island\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating rice, vegetable curries and fish.</item>
+        <item>Though I share no borders with anybody right now, I used to be connected by land to another country about 500 years ago.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Pound.</item>
+        <item>My capital is Khartoum.</item>
+        <item>My population is about 42 million.</item>
+        <item>My people speak Arabic, Nubian and other languages.</item>
+        <item>I share a border with Egypt.</item>
+        <item>My name means \"Land of the black people\".</item>
+        <item>My people enjoy playing soccer and athletics.</item>
+        <item>My people enjoy eating ful medames, a vegetarian dish made typically with fava beans.</item>
+        <item>I contain the largest number of pyramids in the world. </item>
+
+        <item>Most of my people follow Christianity, some certain traditional African beliefs.</item>
+        <item>My currency is known as the Pound.</item>
+        <item>My capital is Juba.</item>
+        <item>My population is about 11 million.</item>
+        <item>My people speak English, Arabic, Dinka and other languages.</item>
+        <item>I share a border with Kenya.</item>
+        <item>My name means \"Southern land of the black people\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating ful medames, a vegetarian dish made typically with fava beans.</item>
+        <item>I am the world\'s youngest UN recognized country.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Krona.</item>
+        <item>My capital is Stockholm.</item>
+        <item>My population is about 10 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Finland.</item>
+        <item>My name means \"Land of the people our own kin\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating meatballs, crayfish and herring.</item>
+        <item>About two-thirds of my land is covered by forests.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Franc.</item>
+        <item>My capital is Bern.</item>
+        <item>My population is about 8.5 million.</item>
+        <item>My people speak German, French and Italian.</item>
+        <item>I share a border with Italy.</item>
+        <item>My name means \"Land of the cleared woodland\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating cervelat, a kind of sausage, and fondue, a melted cheese dish.</item>
+        <item>I am paranoid about war, so much so that 3000 points of entry into my land are ready to blow in case of an invasion.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Pound.</item>
+        <item>My capital is Damascus.</item>
+        <item>My population is about 17 million.</item>
+        <item>My people speak Arabic, Kurdish, Armenian and other languages.</item>
+        <item>I share a border with Turkey.</item>
+        <item>I am named after a deity.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy kibbeh, a family of dishes based on spiced ground meat and grain.</item>
+        <item>My capital city is among the oldest continuously occupied cities in the world.</item>
+
+        <item>Most of my people follow Buddhism or Taoism, some none.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Taipei.</item>
+        <item>My population is about 24 million.</item>
+        <item>My people speak an East Asian language.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Terraced bay\".</item>
+        <item>My people enjoy playing basketball, baseball and badminton.</item>
+        <item>My people enjoy eating beef noodle soup, minced pork rice and \"stinky tofu\".</item>
+        <item>My people created bubble tea.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Somoni.</item>
+        <item>My capital is Dushanbe.</item>
+        <item>My population is about 9.1 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Afghanistan.</item>
+        <item>My name means \"Land of the nomads\".</item>
+        <item>My people enjoy playing soccer and athletics.</item>
+        <item>My people enjoy eating osh palov, a rice dish where the rice is simmered in a rich stew of meat and vegetables.</item>
+        <item>I contain a lake named after Alexander the Great.</item>
+
+        <item>Most of my people follow Christianity or Islam.</item>
+        <item>My currency is known as the Shilling.</item>
+        <item>My capital is Dodoma.</item>
+        <item>My population is about 56 million.</item>
+        <item>My people Swahili, English and Arabic.</item>
+        <item>I share a border with Kenya.</item>
+        <item>My name is a combination of two different names, meaning \"To join\" and \"Black coast\".</item>
+        <item>My people enjoy playing soccer and boxing.</item>
+        <item>My people enjoy eating ugali, a maize flour porridge.</item>
+        <item>I am home to the largest crab in the world.</item>
+
+        <item>Most of my people follow Buddhism.</item>
+        <item>My currency is known as the Baht.</item>
+        <item>My capital is Bangkok.</item>
+        <item>My population is about 69 million.</item>
+        <item>My people speak an East Asian and an Indo-European language.</item>
+        <item>I share a border with Cambodia.</item>
+        <item>My name means \"Land of human beings\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating pad thai, a stir-fried rice noodle dish.</item>
+        <item>I am run by a military dictatorship, and have had 20 different constitutions in the past century.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Pa\'anga.</item>
+        <item>My capital is Nuku\'alofa.</item>
+        <item>My population is about 103,000.</item>
+        <item>My people speak an Austronesian language.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Southern\".</item>
+        <item>My people enjoy playing rugby.</item>
+        <item>My people enjoy eating ota ika, a dish consisting of raw fish marinated in citrus juice and coconut milk.</item>
+        <item>I am run by the only monarchy in Oceania.</item>
+
+        <item>Most of my people follow Christianity, Hinduism or Islam.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Port of Spain.</item>
+        <item>My population is about 1.4 million.</item>
+        <item>My people speak English, Hindi, French, Spanish and Chinese.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Trinity and tobacco\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating callaloo, a vegetable dish made with leaf vegetables such as amaranth or taro.</item>
+        <item>I am home to the largest carnival festival in the Caribbean.</item>
+
+        <item>Most of my people follow Islam, some Christianity.</item>
+        <item>My currency is known as the Dinar.</item>
+        <item>My capital is Tunis.</item>
+        <item>My population is about 11.5 million.</item>
+        <item>My people speak Arabic and French.</item>
+        <item>I share a border with Algeria.</item>
+        <item>I am named after a goddess.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating kosksi (couscous), a dish of small steamed balls of crushed durum wheat semolina.</item>
+        <item>I was once an important part of the Roman empire.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Iira.</item>
+        <item>My capital is Ankara.</item>
+        <item>My population is about 82 million.</item>
+        <item>My people speak a Turkic language.</item>
+        <item>I share a border with Iran.</item>
+        <item>My name means \"Land of the created\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating kuru fasulye, a stewed bean dish.</item>
+        <item>Saint Nicholas, the inspiration for Santa Claus, was one of my people.</item>
+
+        <item>Most of my people follow Islam, some Christianity.</item>
+        <item>My currency is known as the Manat.</item>
+        <item>My capital is Ashgabat.</item>
+        <item>My population is about 5.8 million.</item>
+        <item>My people speak a Turkic language.</item>
+        <item>I share a border with Iran.</item>
+        <item>My name means \"Home of the created and pure\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating dograma, a meat and bread stew.</item>
+        <item>I contain a man-made burning crater.</item>
+
+        <item>Most of my people follow Christianity, some Islam.</item>
+        <item>My currency is known as the Shilling.</item>
+        <item>My capital is Kampala.</item>
+        <item>My population is about 42 million.</item>
+        <item>My people speak English, Ganda and other languages.</item>
+        <item>I share a border with Rwanda.</item>
+        <item>My name means \"Brothers and sisters\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating Matooke, a kind of banana. They also enjoy fried grasshoppers.</item>
+        <item>About half of my people are under the age of 15.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Hryvnia.</item>
+        <item>My capital is Kyiv.</item>
+        <item>My population is about 42 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Russia.</item>
+        <item>My name means \"Edge/borderland\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating borscht, a sour soup made with beetroot.</item>
+        <item>My people began the popular Easter egg tradition.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Dirham.</item>
+        <item>My capital is Abu Dhabi.</item>
+        <item>My population is about 9.6 million.</item>
+        <item>My people speak Arabic, Persian, English, Hindi, Urdu.</item>
+        <item>I share a border with Oman.</item>
+        <item>My name means \"United territory of nomads\".</item>
+        <item>My people enjoy playing soccer and cricket.</item>
+        <item>My people enjoy eating harees, a dish of boiled, cracked, or coarsely-ground wheat, mixed with meat and seasoned.</item>
+        <item>I am home to the world\'s tallest building.</item>
+
+        <item>Most of my people follow Christianity, some none.</item>
+        <item>My currency is known as the Pound.</item>
+        <item>My capital is London.</item>
+        <item>My population is about 67 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Ireland.</item>
+        <item>My name means \"United land under the rule of the king\".</item>
+        <item>My people enjoy playing soccer, cricket and rugby.</item>
+        <item>My people enjoy eating roast beef, fish and chips and chicken tikka masala.</item>
+        <item>I am home to the shortest regularly scheduled commercial flight in the world, which lasts only 53 seconds.</item>
+
+        <item>Most of my people follow Christianity, some none.</item>
+        <item>My currency is known as the Dollar.</item>
+        <item>My capital is Washington, D.C.</item>
+        <item>My population is about 328 million.</item>
+        <item>My people speak an Indo-European language.</item>
+        <item>I share a border with Mexico.</item>
+        <item>I am named after an old explorer.</item>
+        <item>My people enjoy playing football, baseball and basketball.</item>
+        <item>My people enjoy eating apple pies, hamburgers, hot dogs and turkey.</item>
+        <item>I have had 27 different flags.</item>
+
+        <item>Most of my people follow Christianity, some none.</item>
+        <item>My currency is known as the Peso.</item>
+        <item>My capital is Montevideo.</item>
+        <item>My population is about 3.4 million.</item>
+        <item>My people speak Spanish.</item>
+        <item>I share a border with Brazil.</item>
+        <item>My name means \"Land of the river of shellfish\".</item>
+        <item>My people enjoy playing soccer and rugby.</item>
+        <item>My people enjoy eating chivito, a type of sandwich made from beef.</item>
+        <item>My people claim to be the originator\'s of the tango dance form.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the Som.</item>
+        <item>My capital is Tashkent.</item>
+        <item>My population is about 33 million.</item>
+        <item>My people speak a Turkic language.</item>
+        <item>I share a border with Afghanistan.</item>
+        <item>My name means \"Land of the free\".</item>
+        <item>My people enjoy playing soccer and wrestling.</item>
+        <item>My people enjoy eating o\'sh, a rice dish where the rice is simmered in a rich stew of meat and vegetables.</item>
+        <item>I am one of only two countries in the world which are doubly landlocked (landlocked and totally surrounded by other landlocked countries).</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Vatu.</item>
+        <item>My capital is Port Vila.</item>
+        <item>My population is about 292,000.</item>
+        <item>My people speak Bislama, English, French and other languages.</item>
+        <item>I don\'t share a border with anybody.</item>
+        <item>My name means \"Our land\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating laplap, a dish prepared by grating breadfruit, bananas, taro or yam roots into a vegetable paste,, and then wrapping in banana leaves and cooking in an underground stone oven, with fresh coconut cream. Meats like pork, beef, chicken or flying fox can be added.</item>
+        <item>I am one of few countries not part of Interpol.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Euro.</item>
+        <item>I have no capital city.</item>
+        <item>My population is about 825.</item>
+        <item>My people speak Italian, Latin, French and other languages.</item>
+        <item>I share a border with Italy.</item>
+        <item>My name means \"City of prophesiers\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating various kinds of pasta, polenta, and risotto dishes.</item>
+        <item>I am the smallest country in the world.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Bolivar.</item>
+        <item>My capital is Caracas.</item>
+        <item>My population is about 28.8 million.</item>
+        <item>My people speak Spanish.</item>
+        <item>I share a border with Brazil.</item>
+        <item>My name means \"Little Beloved\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating pabellón criollo, a dish of rice, shredded beef in stew and stewed black beans.</item>
+        <item>I am home to the world\'s tallest uninterrupted waterfall.</item>
+
+        <item>Most of my people follow certain unorganized traditional beliefs, or are non-religious, while some follow Buddhism.</item>
+        <item>My currency is known as the Dong.</item>
+        <item>My capital is Hanoi.</item>
+        <item>My population is about 95 million.</item>
+        <item>My people speak an East Asian language.</item>
+        <item>I share a border with Cambodia.</item>
+        <item>I am named after an old tribe.</item>
+        <item>My people enjoy playing soccer, cycling, swimming and badminton.</item>
+        <item>My people enjoy eating pho, a soup consisting of broth, rice noodles, herbs, and meat (usually beef).</item>
+        <item>About 40% of my population has the same surname.</item>
+
+        <item>Most of my people follow Islam.</item>
+        <item>My currency is known as the RIal.</item>
+        <item>My capital is Sana\'a.</item>
+        <item>My population is about 28 million.</item>
+        <item>My people speak Arabic.</item>
+        <item>I share a border with Saudi Arabia.</item>
+        <item>My name means \"South\".</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating saltah, a dish whose base consists of a brown meat stew called maraq, a dollop of fenugreek froth, and sahawiq or sahowqa (a mixture of chillies, tomatoes, garlic, and herbs ground into a salsa). Rice, potatoes, scrambled eggs, and vegetables are common additions to saltah.</item>
+        <item>I am the only place in the world where you can find the dragon blood tree.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Kwacha.</item>
+        <item>My capital is Lusaka.</item>
+        <item>My population is about 17 million.</item>
+        <item>My people speak English, Bemba and other languages.</item>
+        <item>I share a border with Zimbabwe.</item>
+        <item>I am named after an old tribe.</item>
+        <item>My people enjoy playing soccer.</item>
+        <item>My people enjoy eating nshima, a maize flour porridge.</item>
+        <item>I contain termite hills as large as small houses.</item>
+
+        <item>Most of my people follow Christianity.</item>
+        <item>My currency is known as the Dollar, though I also allow use of various foreign currencies.</item>
+        <item>My capital is Harare.</item>
+        <item>My population is about 14 million.</item>
+        <item>My people speak English, Shona, Ndebele and other languages.</item>
+        <item>I share a border with South Africa.</item>
+        <item>My name means \"House of stones\".</item>
+        <item>My people enjoy playing cricket.</item>
+        <item>My people enjoy eating sadza, a maize flour porridge.</item>
+        <item>I am one of the few countries containing all of the \"big five\", namely, the lion, buffalo, rhinoceros, leopard and the elephant.</item>
     </string-array>
 </resources>

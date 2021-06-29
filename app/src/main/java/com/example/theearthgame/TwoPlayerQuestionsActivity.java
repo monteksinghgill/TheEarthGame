@@ -36,7 +36,7 @@ public class TwoPlayerQuestionsActivity extends Activity {
             countries = getResources().getStringArray(R.array.countries);
             country_facts = getResources().getStringArray(R.array.country_facts);
             Random rand = new Random();
-            int country_num = rand.nextInt(8);
+            int country_num = rand.nextInt(135);
             country = countries[country_num];
             hints_start_index = 10*country_num;
             hint_num = 0;
